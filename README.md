@@ -27,3 +27,12 @@ This additional module is designed to extract user comments from product pages o
 1. Install required dependencies:
    ```bash
    pip install selenium
+
+2. Make sure ChromeDriver is installed and available in your PATH.
+3. Open comment-reader.py and replace the url variable:
+   ```python
+   url = "https://www.trendyol.com/some-product-link"
+4. Run the comment-reader.py
+
+### 🖼️ Screenshots
+

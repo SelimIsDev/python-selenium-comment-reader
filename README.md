@@ -35,4 +35,7 @@ This additional module is designed to extract user comments from product pages o
 4. Run the comment-reader.py
 
 ### 🖼️ Screenshots
+<img src='https://github.com/user-attachments/assets/fb1786fc-ae2c-4397-8db3-a46933ebe371' width='400'>
+<img src='https://github.com/user-attachments/assets/a53ad381-7586-486b-844c-16fad42248e6' width='400'>
+
 

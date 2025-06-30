@@ -36,5 +36,5 @@ This additional module is designed to extract user comments from product pages o
 
 ### 🖼️ Screenshots
 <img src='https://github.com/user-attachments/assets/fb1786fc-ae2c-4397-8db3-a46933ebe371' width='400'>
-<img src='https://github.com/user-attachments/assets/721fd619-62c7-4536-86fb-e7ca36b22017' width='300' height='200'>
+<img src='https://github.com/user-attachments/assets/721fd619-62c7-4536-86fb-e7ca36b22017' width='300' height='230'>
 

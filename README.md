@@ -1,6 +1,6 @@
 ---
 
-## 💬 Trendyol Comment Scraper (comment-reader.py)
+## 💬 Trendyol Comment Scraper (comment-reader.py) | 2023
 
 This additional module is designed to extract user comments from product pages on the Trendyol website. It uses Python’s Selenium library to automate the scraping process and stores the retrieved data in an SQLite database.
 
